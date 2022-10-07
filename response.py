@@ -2,7 +2,7 @@
 # Problem Set 7
 #A series of exercises for CS50 hands-on projects
 """
-This one"s my approach to the "Watch on YouTube" problem
+This one's my approach to the "Watch on YouTube" problem
 """
 from validator_collection import validators
 
